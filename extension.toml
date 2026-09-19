@@ -1,0 +1,7 @@
+id = "ms-solarized-dark"
+name = "MS Solarized Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["Lszaboo"]
+description = "Visual Studio Theme Pack inspired Solarized Dark theme for Zed."
+repository = "https://github.com/Lszaboo/ms-solarized-dark-zed"
