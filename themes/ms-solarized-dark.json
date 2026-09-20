@@ -210,7 +210,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#C03681FF",
+            "color": "#DE9F6DFF",
             "font_style": null,
             "font_weight": null
           },
@@ -270,7 +270,7 @@
             "font_weight": null
           },
           "namespace": {
-            "color": "#dce0e5ff",
+            "color": "#C3D3DEFF",
             "font_style": null,
             "font_weight": null
           },
@@ -290,7 +290,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#D8A0DFFF",
+            "color": "#729800FF",
             "font_style": null,
             "font_weight": null
           },
@@ -390,7 +390,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#9CDCFEFF",
+            "color": "#DCE0E5FF",
             "font_style": null,
             "font_weight": null
           },
