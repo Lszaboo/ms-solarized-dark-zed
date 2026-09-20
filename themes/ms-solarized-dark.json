@@ -17,15 +17,15 @@
         "surface.background": "#04323DFF",
         "background": "#002B36FF",
         "element.background": "#2F5669FF",
-        "element.hover": "#04323DFF",
-        "element.active": "#454a56ff",
-        "element.selected": "#454a56ff",
+        "element.hover": "#086278FF",
+        "element.active": "#064552FF",
+        "element.selected": "#032930FF",
         "element.disabled": "#04323DFF",
         "drop_target.background": "#83899480",
         "ghost_element.background": "#00000000",
         "ghost_element.hover": "#086278FF",
-        "ghost_element.active": "#454a56ff",
-        "ghost_element.selected": "#454a56ff",
+        "ghost_element.active": "#064552FF",
+        "ghost_element.selected": "#032930FF",
         "ghost_element.disabled": "#04323DFF",
         "text": "#FFFFFFFF",
         "text.muted": "#a9afbcff",
@@ -39,7 +39,7 @@
         "icon.accent": "#74ade8ff",
         "status_bar.background": "#002B36FF",
         "title_bar.background": "#002B36FF",
-        "title_bar.inactive_background": "#2e343eff",
+        "title_bar.inactive_background": "#086278FF",
         "toolbar.background": "#002B36FF",
         "tab_bar.background": "#04323DFF",
         "tab.inactive_background": "#04323DFF",
@@ -195,7 +195,7 @@
             "font_weight": null
           },
           "boolean": {
-            "color": "#bf956aff",
+            "color": "#C03681FF",
             "font_style": null,
             "font_weight": null
           },
@@ -210,7 +210,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#dfc184ff",
+            "color": "#C03681FF",
             "font_style": null,
             "font_weight": null
           },
@@ -305,17 +305,17 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#acb2beff",
+            "color": "#ACB2BEFF",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.bracket": {
-            "color": "#b2b9c6ff",
+            "color": "#729800FF",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#b2b9c6ff",
+            "color": "#729800FF",
             "font_style": null,
             "font_weight": null
           },
